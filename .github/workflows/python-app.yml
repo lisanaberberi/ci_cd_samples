@@ -24,4 +24,4 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
             
-      - run: python hello-world.py
+      - run: python python_ci_cd/hello-world.py
