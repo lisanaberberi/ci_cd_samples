@@ -1,2 +1,3 @@
 # ci_cd_samples
-### Simple python build workflow
+###  GitHub Actions workflow written in YAML for building a python application: Simple python build 
+
